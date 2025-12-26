@@ -4,6 +4,7 @@ Columbia SIPA Portfolio Management(Fall2024) - Prof. Robert Kiernan
 Topic: Machine Learning in Multi-factor Investing
 
 Introduction：
+
 Multi-factor investing has long been a cornerstone of quantitative finance, with models such as the Fama-French 3- and 5-Factor, which has been widely adopted for constructing portfolio and select stocks. These models extend foundational theories like Markowitz’s Mean-Variance Optimization and the CAPM by incorporating multiple factors to explain asset returns. But
 traditional approaches have limitations on capturing complex and dynamic market behavior because they rely on assumptions of linear relationships and static factor definitions. This paper
 will explore the hypothesis that machine learning can enhance the predictive power of multi-factor models and improve portfolio outcomes, leading to better asset allocation strategies, higher risk-adjusted returns, and reduced drawdowns.
